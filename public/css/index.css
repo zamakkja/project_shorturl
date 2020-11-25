@@ -1,0 +1,15 @@
+body{
+    background-color: #000;
+}
+.box-card {
+    width: 80%;
+    margin: auto;
+    margin-top: 50%;
+    transform: translateY(-100%);
+}
+.bg-custom{
+    background-color: #333 !important;
+}
+.title-color{
+    color:#BB86FC;
+}
